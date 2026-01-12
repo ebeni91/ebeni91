@@ -1,5 +1,5 @@
-# 💫 About Me:
-​Hi, I’m Ebenezer Hailu 👋<br>I am a self-taught Software Developer and a BSE Material Science and Engineering student.<br>🔭 I’m currently working on: Developing custom Python programs for automated vulnerability scanning and building ML models for testing vulnerable web applications and cloud-native environments.<br>👯 I’m looking to collaborate on: Open-source Red Teaming tools, penetration testing labs.<br>🤝 I’m looking for help with: Mastering advanced exploit development and understanding the nuances of bypassing AI-based EDR (Endpoint Detection and Response) systems.<br>🌱 I’m currently learning: Offensive Security (OSCP prep), Deep Learning frameworks like PyTorch.<br>⚡ Fun fact: I spend more time "breaking" things to understand how they work than I do putting them back together—but that’s the Red Teamer way.<br><br>
+
+​Hi, I’m Ebenezer Hailu <br>I am a self-taught Software Developer and a BSE Material Science and Engineering student.<br>🔭 I’m currently working on: Developing custom Python programs for automated vulnerability scanning and building ML models for testing vulnerable web applications and cloud-native environments.<br>I’m looking to collaborate on: Open-source Red Teaming tools, penetration testing labs.<br>I’m currently learning: Offensive Security (OSCP prep), Deep Learning frameworks like PyTorch and TensorFlow.<br>⚡ Fun fact: I spend more time breaking things to understand how they work than I do putting them back together but that’s the Red Teamer way.<br><br>
 
 
 ## 🌐 Socials:
