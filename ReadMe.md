@@ -1,6 +1,9 @@
-
-​Hi, I’m Ebenezer Hailu <br>I am a self-taught Software Developer and a BSE Material Science and Engineering student.<br>🔭 I’m currently working on: Developing custom Python programs for automated vulnerability scanning and building ML models for testing vulnerable web applications and cloud-native environments.<br>I’m looking to collaborate on: Open-source Red Teaming tools, penetration testing labs.<br>I’m currently learning: Offensive Security (OSCP prep), Deep Learning frameworks like PyTorch and TensorFlow.<br>⚡ Fun fact: I spend more time breaking things to understand how they work than I do putting them back together but that’s the Red Teamer way.<br><br>
-
+Hi, I’m Ebenezer Hailu! 👋
+I am a self-taught Software Developer and a Material Science student with a passion for offensive security.
+Current Focus: Building Python tools for vulnerability scanning and applying ML to security testing.
+Learning: Offensive Security (OSCP), PyTorch, and TensorFlow.
+Collaborate with me on: Open-source Red Teaming tools and penetration testing labs.
+Fun Fact: I learn by breaking things—the true Red Teamer way.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dbXUwYrne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ebenezerh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/et3on) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ebenezerh891) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebenezerh891@gmail.com) 
