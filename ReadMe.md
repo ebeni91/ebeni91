@@ -1,4 +1,4 @@
-Hi, I’m Ebenezer<br>
+Hi, I’m Ebenezer <br> 
 I am a self-taught Software Developer and a Material Science student with a passion for offensive security.<br>
 Current Focus: Building Python tools for vulnerability scanning and applying ML to security testing.<br>
 Learning: Offensive Security (OSCP), PyTorch, and TensorFlow.<br>
