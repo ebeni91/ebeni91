@@ -5,11 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+Ebenezer+Hailu;Hola+Bonjour+Privet" />
 
 <br>
-
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284126-6e0e6d8c-8c8c-4a54-a1a5-4e5b8d8d7b5f.gif" width="600">
 
 </div>
-
+<br>
 
 <!-- ================= ABOUT ================= -->
 
@@ -27,6 +27,7 @@ Cyber Security Enthusiast</b>
 <!-- ================= CONNECT ================= -->
 
 <div align="center"> Lets Connect </div>
+<br>
 
 <div align="center">
 
@@ -52,10 +53,19 @@ Cyber Security Enthusiast</b>
 
 </div>
 
+<br>
 
 <!-- ================= TECH STACK ================= -->
 
 <div align="center">⚔️ Arsenal ⚔️</div>
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,django,bash,postgres,mysql,redis,docker,kubernetes,git,github,linux,nodejs,tailwind&theme=dark" />
+
+</div>
+<br>
 <div align="center">
 
 <!-- Offensive Security & OS -->
@@ -64,27 +74,12 @@ Cyber Security Enthusiast</b>
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
 ![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=00ff41)
-
-<!-- Scripting & Dev -->
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff41)
-
 <!-- Platforms -->
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)
 
 </div>
 <br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,django,bash,postgres,mysql,redis,docker,kubernetes,git,github,linux,nodejs,tailwind&theme=dark" />
-
-</div>
-
-
 <div align="center">
 
 <picture>
@@ -132,7 +127,6 @@ Cyber Security Enthusiast</b>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=120&lines=Sp3ctr1" alt="Sp3ctr1" />
 
   <br>
-  <code>[Initializing Sp3ctr1 Protocol...]</code>
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=ebeni91&style=for-the-badge&color=00ff41"/>
