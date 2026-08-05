@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;SP3CTR1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;[ SP3CTR1 ]" />
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284126-6e0e6d8c-8c8c-4a54-a1a5-4e5b8d8d7b5f.gif" width="600">
@@ -26,10 +26,14 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= CONNECT ================= -->
 
-<div align="center"> <b> Lets Connect </b></div>
-<br>
-<br>
+<!-- <div align="center"> <b> Lets Connect </b></div> -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=🌐+Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
+</div>
+
+<br>
+
+<!-- <div align="center">
 
 <a href="https://instagram.com/ebenezerh_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -51,28 +55,84 @@ Cyber Security Enthusiast</b>
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
+</div> -->
+
+<!-- ================= CONNECT ================= -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=🌐+Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
 </div>
 
-<br>
+<div align="center">
+
+<a href="https://instagram.com/ebenezerh_">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
+</a>
+
+<a href="https://linkedin.com/in/et3on">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+</a>
+
+<a href="https://pinterest.com/ebenezerh891">
+<img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=00ff41"/>
+</a>
+
+<a href="https://reddit.com/user/ebeni61">
+<img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=00ff41"/>
+</a>
+
+<a href="https://twitch.tv/ebenezerh891">
+<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00ff41"/>
+</a>
+
+</div>
 <br>
 
 <!-- ================= TECH STACK ================= -->
 
 <!-- <div align="center"><b> ⚔️ Arsenal ⚔️ </b></div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&color=00FF41&center=true&vCenter=true&width=400&height=80&lines=Arsenal" alt="Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=💻+Arsenal&duration=1&repeat=false" alt="Arsenal" />
 </div>
 <br>
-<br>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,react,django,bash,postgres,mysql,redis,docker,kubernetes,git,github,linux,nodejs,tailwind&theme=dark" />
 
+</div> -->
+<!-- ================= TECH STACK ================= -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=💻+Arsenal&duration=1&repeat=false" alt="Arsenal" />
 </div>
+
 <br>
+
 <div align="center">
 
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff41)
+
+<!-- Databases -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff41)
+
+<!-- DevOps & OS -->
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
 <!-- Offensive Security & OS -->
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41)
