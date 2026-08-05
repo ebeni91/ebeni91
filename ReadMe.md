@@ -13,7 +13,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<h2 align="center">💫 About Me</h2>
+<!-- <h2 align="center">💫 About Me</h2> -->
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">💻 Arsenal</h2>
+<h2 align="center">⚔️ Arsenal ⚔️</h2>
 
 <div align="center">
 
@@ -79,18 +79,26 @@ Cyber Security Enthusiast</b>
 
 <div align="center">
 
-![Python] (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Cybersecurity] (https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
-![Linux] (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker] (https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions] (https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+[Python] (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+[Cybersecurity] (https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
+[Linux] (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+[Docker] (https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+[GitHub Actions] (https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 
 
 <!-- ================= GITHUB ================= -->
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake.svg" alt="snake" />
+</picture>
+
+</div>
 <h2 align="center">GitHub</h2>
 
 <div align="center">
@@ -105,24 +113,17 @@ Cyber Security Enthusiast</b>
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
-  <!-- A divider for spacing -->
-  <br><br><br>
-
-  <!-- Title section above the Matrix rain -->
-  <h2 align="center">⚔️ Project Sp3ctr1 ⚔️</h2>
+  <br><br>
+  <h2 align="center">⚔️ Sp3ctr1 ⚔️</h2>
   <br>
 
-  <!--
-    This is the core of the change: We use a high-quality animated GIF
-    of falling Matrix code, centered, and set to 100% width.
-  -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW01M3pwczR3cDFxcWdzdnk2bTVhYnVnMnhkNmY0N2phcmphdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eImrJKb74D7Mc/giphy.gif" alt="Matrix Digital Rain Animation" width="100%">
+  <!-- Updated to a more reliable, direct GIF source -->
+  <img src="https://media.tenor.com/bZe66-B1bVwAAAAC/matrix-code-matrix.gif" alt="Matrix Digital Rain Animation" width="100%">
 
-  <br>
-
-  <!-- Visitor Counter and a thematic quote -->
+  <br><br>
   <code>[Initializing Sp3ctr1 Protocol...]</code>
   <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=ebeni91&style=for-the-badge&color=00ff41"/>
   <br><br>
 
