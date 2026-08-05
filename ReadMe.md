@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+%F0%9F%91%8B;Welcome+Hola+Bonjour+Privet" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+Ebenezer+Hailu;Hola+Bonjour+Privet" />
 
 <br>
 
@@ -26,7 +26,7 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= CONNECT ================= -->
 
-<div align="center"> <h2> Lets Connect </h2> </div>
+<div align="center"> Lets Connect </div>
 
 <div align="center">
 
@@ -55,29 +55,34 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">⚔️ Arsenal ⚔️</h2>
+<div align="center">⚔️ Arsenal ⚔️</div>
+<div align="center">
+
+<!-- Offensive Security & OS -->
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
+![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=00ff41)
+
+<!-- Scripting & Dev -->
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff41)
+
+<!-- Platforms -->
+![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)
+
+</div>
+<br>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,react,django,bash,postgres,mysql,redis,docker,kubernetes,git,github,linux,nodejs,tailwind&theme=dark" />
 
 </div>
-
-
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-
-
 
 
 <div align="center">
