@@ -1,8 +1,8 @@
 <!-- ================= HEADER ================= -->
-
+<br>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;SP3CTR1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;[SP3CTR1]" />
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284126-6e0e6d8c-8c8c-4a54-a1a5-4e5b8d8d7b5f.gif" width="600">
@@ -27,7 +27,7 @@ Cyber Security Enthusiast</b>
 
 <!-- <div align="center"> <b> Lets Connect </b></div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
 </div>
 
 <br>
@@ -87,7 +87,7 @@ Cyber Security Enthusiast</b>
 
 <!-- <div align="center"><b> ⚔️ Arsenal ⚔️ </b></div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=💻+Arsenal&duration=1&repeat=false" alt="Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Arsenal&duration=1&repeat=false" alt="Arsenal" />
 </div>
 <br>
 
