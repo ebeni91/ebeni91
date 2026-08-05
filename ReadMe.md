@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+%F0%9F%91%8B;Software+Developer+%7C+Cyber+Security+Enthusiast;Exploring+Offensive+Security+%F0%9F%94%90;Building+Security+Tools+%26+Automation;Red+Team+%7C+CTF+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+%F0%9F%91%8B;Welcome+To+My+Github" />
 
 <br>
 
@@ -13,26 +13,22 @@
 
 <!-- ================= ABOUT ================= -->
 
-<h2 align="center">⚡️ About Me</h2>
+<h2 align="center">💫 About Me</h2>
 
 <div align="center">
 
-┌──(ebenezer㉿cyberlab)-[~]
-└─$ whoami
+<h2> ┌──(ebenezer㉿Sp3ctr1)-[~]</h2>
+<br>
+<h2> └─$ whoami </h2>
 
-Self-taught Software Developer
-Cyber Security Enthusiast
-Offensive Security Explorer
+<h2> Self-taught Software Developer |
+Cyber Security Enthusiast </h2>
 
 
 </div>
-
+<br>
 
 <p align="center">
-I'm a self-taught Software Developer passionate about cybersecurity, 
-automation, and building tools that solve real-world problems.
-<br><br>
-
 🔭 Currently exploring <b>Machine Learning for Security Testing</b><br>
 🛡️ Sharpening skills in <b>Penetration Testing & Threat Analysis</b><br>
 🎯 Learning <b>Offensive Security & Red Team Methodologies</b><br>
@@ -84,64 +80,27 @@ automation, and building tools that solve real-world problems.
 
 <div align="center">
 
-!Python (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-!Cybersecurity (https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
-!Linux (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-!Docker (https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-!GitHub Actions (https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python] (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Cybersecurity] (https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
+![Linux] (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker] (https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions] (https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-
-<!-- ================= SECURITY FOCUS ================= -->
-
-<h2 align="center">🕵️ Security Focus</h2>
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🔴 Offensive Security | Penetration Testing, Red Teaming |
-| 🧪 Research | Vulnerability Analysis |
-| 🤖 AI Security | ML-assisted Security Testing |
-| 🏴 CTF | HackTheBox, TryHackMe Challenges |
-| ⚙️ Development | Security Automation Tools |
-
-</div>
 
 
 <!-- ================= GITHUB ================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebeni91&show_icons=true&theme=radical&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=ebeni91&theme=radical&hide_border=true"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ebeni91&theme=radical&no-frame=true&margin-w=10"/>
-
+![](https://streak-stats.demolab.com/?user=ebeni91&theme=dark&hide_border=false)
+<br/>
+![](https://github-profile-trophy.vercel.app/?username=ebeni91&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-
-<!-- ================= TERMINAL ================= -->
-
-<h2 align="center">⚔️ Current Mission</h2>
-
-<div align="center">
-
-> Building security tools
-> Learning advanced offensive techniques
-> Exploring AI + Cybersecurity
-> Improving every day
-
-
-</div>
 
 
 <!-- ================= FOOTER ================= -->
@@ -152,6 +111,6 @@ automation, and building tools that solve real-world problems.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=footer&text=Sp3ctr1&fontSize=60&fontColor=00FF41&fontAlign=50&fontAlignY=50&animation=twinkling&desc=01001100%2001001111%2001000001%2001000100%2001001001%2001001110%2001000111&descSize=14&descAlign=50&descAlignY=80" width="100%"/>
 
 </div>
