@@ -17,12 +17,11 @@
 
 <div align="center">
 
-<h2> ┌──(ebenezer㉿Sp3ctr1)-[~]</h2>
-<br>
-<h2> └─$ whoami </h2>
+┌──(ebenezer㉿Sp3ctr1)-[~]
+└─$ whoami
 
-<h2> Self-taught Software Developer |
-Cyber Security Enthusiast </h2>
+<b>Software Developer |
+Cyber Security Enthusiast</b>
 
 
 </div>
@@ -104,13 +103,27 @@ Cyber Security Enthusiast </h2>
 
 
 <!-- ================= FOOTER ================= -->
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ebeni91&style=for-the-badge&color=00ff41"/>
+  <!-- A divider for spacing -->
+  <br><br><br>
 
-<br><br>
+  <!-- Title section above the Matrix rain -->
+  <h2 align="center">⚔️ Project Sp3ctr1 ⚔️</h2>
+  <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=footer&text=Sp3ctr1&fontSize=60&fontColor=00FF41&fontAlign=50&fontAlignY=50&animation=twinkling&desc=01001100%2001001111%2001000001%2001000100%2001001001%2001001110%2001000111&descSize=14&descAlign=50&descAlignY=80" width="100%"/>
+  <!--
+    This is the core of the change: We use a high-quality animated GIF
+    of falling Matrix code, centered, and set to 100% width.
+  -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW01M3pwczR3cDFxcWdzdnk2bTVhYnVnMnhkNmY0N2phcmphdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eImrJKb74D7Mc/giphy.gif" alt="Matrix Digital Rain Animation" width="100%">
+
+  <br>
+
+  <!-- Visitor Counter and a thematic quote -->
+  <code>[Initializing Sp3ctr1 Protocol...]</code>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ebeni91&style=for-the-badge&color=00ff41"/>
+  <br><br>
 
 </div>
