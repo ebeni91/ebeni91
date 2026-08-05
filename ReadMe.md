@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;Hola+|+Bonjour+|+Privet" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;Hola+|+Bonjour+|+Privet" />
 
 <br>
 <br>
@@ -23,12 +23,15 @@ Cyber Security Enthusiast</b>
 
 </div>
 <br>
+<br>
+<br>
 
 <!-- ================= CONNECT ================= -->
 
-<div align="center"> <h2> Lets Connect </h2></div>
+<div align="center"> <b> Lets Connect </b></div>
 <br>
-
+<br>
+<br>
 <div align="center">
 
 <a href="https://instagram.com/ebenezerh_">
@@ -54,11 +57,15 @@ Cyber Security Enthusiast</b>
 </div>
 
 <br>
+<br>
+<br>
 
 <!-- ================= TECH STACK ================= -->
 
-<div align="center"><h2> ⚔️ Arsenal ⚔️ </h2></div>
-
+<div align="center"><b> ⚔️ Arsenal ⚔️ </b></div>
+<br>
+<br>
+<br>
 
 <div align="center">
 
