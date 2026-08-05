@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;Hola+|+Bonjour+|+Privet" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Ebenezer+Hailu;SP3CTR1" />
 
-<br>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284126-6e0e6d8c-8c8c-4a54-a1a5-4e5b8d8d7b5f.gif" width="600">
 
@@ -24,12 +23,10 @@ Cyber Security Enthusiast</b>
 </div>
 <br>
 <br>
-<br>
 
 <!-- ================= CONNECT ================= -->
 
 <div align="center"> <b> Lets Connect </b></div>
-<br>
 <br>
 <br>
 <div align="center">
@@ -58,12 +55,13 @@ Cyber Security Enthusiast</b>
 
 <br>
 <br>
-<br>
 
 <!-- ================= TECH STACK ================= -->
 
-<div align="center"><b> ⚔️ Arsenal ⚔️ </b></div>
-<br>
+<!-- <div align="center"><b> ⚔️ Arsenal ⚔️ </b></div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&color=00FF41&center=true&vCenter=true&width=400&height=80&lines=Arsenal" alt="Arsenal" />
+</div>
 <br>
 <br>
 
