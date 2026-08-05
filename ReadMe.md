@@ -30,32 +30,6 @@ Cyber Security Enthusiast</b>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
 </div>
 
-<!-- <div align="center">
-
-<a href="https://instagram.com/ebenezerh_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/et3on">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://pinterest.com/ebenezerh891">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/user/ebeni61">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-<a href="https://twitch.tv/ebenezerh891">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-</a>
-
-</div> -->
-
-<!-- ================= CONNECT ================= -->
-
 <div align="center">
 
 <a href="https://instagram.com/ebenezerh_">
@@ -83,7 +57,6 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= TECH STACK ================= -->
 
-<!-- <div align="center"><b> ⚔️ Arsenal ⚔️ </b></div> -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Tech+Stack&duration=1&repeat=false" alt="Tech Stack" />
 </div>
@@ -93,10 +66,8 @@ Cyber Security Enthusiast</b>
 <img src="https://skillicons.dev/icons?i=python,js,react,django,bash,postgres,mysql,redis,docker,kubernetes,git,github,linux,nodejs,tailwind&theme=dark" />
 
 </div> -->
-<!-- ================= TECH STACK ================= -->
 <div align="center">
 
-<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
@@ -125,6 +96,7 @@ Cyber Security Enthusiast</b>
 
 </div>
 <br>
+
 <div align="center">
 
 <picture>
@@ -160,8 +132,6 @@ Cyber Security Enthusiast</b>
 </picture>
 
 </div>
-
-
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
