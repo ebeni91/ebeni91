@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+%F0%9F%91%8B;Welcome+To+My+Github" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ebenezer+%F0%9F%91%8B;Welcome+Hola+Bonjour+Privet" />
 
 <br>
 
@@ -24,17 +24,9 @@ Cyber Security Enthusiast</b>
 </div>
 <br>
 
-<p align="center">
-🔭 Currently exploring <b>Machine Learning for Security Testing</b><br>
-🛡️ Sharpening skills in <b>Penetration Testing & Threat Analysis</b><br>
-🎯 Learning <b>Offensive Security & Red Team Methodologies</b><br>
-🤝 Open to collaborating on <b>Red Team tools, CTF projects, and security research</b>
-</p>
-
-
 <!-- ================= CONNECT ================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<div align="center"> Lets Connect </div>
 
 <div align="center">
 
@@ -76,18 +68,17 @@ Cyber Security Enthusiast</b>
 
 <div align="center">
 
-[Python] (https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-[Cybersecurity] (https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
-[Linux] (https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-[Docker] (https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-[GitHub Actions] (https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 
 
-<!-- ================= GITHUB ================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
+
 
 <div align="center">
 
