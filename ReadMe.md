@@ -85,7 +85,7 @@ Cyber Security Enthusiast</b>
 
 <!-- <div align="center"><b> ⚔️ Arsenal ⚔️ </b></div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Tech Stack&duration=1&repeat=false" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Tech+Stack&duration=1&repeat=false" alt="Tech Stack" />
 </div>
 
 <!-- <div align="center">
@@ -100,8 +100,6 @@ Cyber Security Enthusiast</b>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-
-<!-- Frameworks & Libraries -->
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff41)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
