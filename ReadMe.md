@@ -26,9 +26,21 @@ Cyber Security Enthusiast</b>
 <!-- ================= CONNECT ================= -->
 
 <!-- <div align="center"> <b> Lets Connect </b></div> -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
+  <picture>
+    <!-- White text for Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" />
+    <!-- Black text for Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=000000&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" />
+    <!-- Fallback -->
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Let's+Connect&duration=1&repeat=false" alt="Let's Connect" />
+  </picture>
 </div>
+
+
+
+
 
 <div align="center">
 
@@ -58,7 +70,14 @@ Cyber Security Enthusiast</b>
 <!-- ================= TECH STACK ================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Tech+Stack&duration=1&repeat=false" alt="Tech Stack" />
+  <picture>
+    <!-- White text for Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Tech+Stack&duration=1&repeat=false" />
+    <!-- Black text for Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=000000&center=true&vCenter=true&width=500&height=80&lines=Tech+Stack&duration=1&repeat=false" />
+    <!-- Fallback -->
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=+Tech+Stack&duration=1&repeat=false" alt="Tech Stack" />
+  </picture>
 </div>
 
 <!-- <div align="center">
