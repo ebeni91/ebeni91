@@ -26,7 +26,7 @@ Cyber Security Enthusiast</b>
 
 <!-- ================= CONNECT ================= -->
 
-<div align="center"> Lets Connect </div>
+<div align="center"> <h2> Lets Connect </h2> </div>
 
 <div align="center">
 
@@ -121,14 +121,12 @@ Cyber Security Enthusiast</b>
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
-  <br><br>
-  <h2 align="center">⚔️ Sp3ctr1 ⚔️</h2>
+  <br><br><br>
+
+  <!-- Large Cyber-Aesthetic Text (Using Orbitron Font) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=75&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=120&lines=Sp3ctr1" alt="Sp3ctr1" />
+
   <br>
-
-  <!-- Updated to a more reliable, direct GIF source -->
-  <img src="https://media.tenor.com/bZe66-B1bVwAAAAC/matrix-code-matrix.gif" alt="Matrix Digital Rain Animation" width="100%">
-
-  <br><br>
   <code>[Initializing Sp3ctr1 Protocol...]</code>
   <br><br>
   
