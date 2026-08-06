@@ -119,23 +119,23 @@ Cyber Security Enthusiast</b>
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ebeni91&show_icons=true&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ebeni91&show_icons=true&title_color=00FF41&text_color=24292f&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ebeni91&show_icons=true&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sp3ctr1&show_icons=true&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=sp3ctr1&show_icons=true&title_color=00FF41&text_color=24292f&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sp3ctr1&show_icons=true&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ebeni91&title_color=00FF41&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ebeni91&title_color=00FF41&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ebeni91&title_color=00FF41&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sp3ctr1&title_color=00FF41&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sp3ctr1&title_color=00FF41&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sp3ctr1&title_color=00FF41&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ebeni91&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ebeni91&hide_border=true&background=ffffff&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=ebeni91&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sp3ctr1&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sp3ctr1&hide_border=true&background=ffffff&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=sp3ctr1&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
 </picture>
 
 </div>
@@ -145,9 +145,9 @@ Cyber Security Enthusiast</b>
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ebeni91/ebeni91/output/github-snake.svg" alt="snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sp3ctr1/sp3ctr1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sp3ctr1/sp3ctr1/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sp3ctr1/sp3ctr1/output/github-snake.svg" alt="snake" />
 </picture>
 
 </div>
@@ -163,7 +163,7 @@ Cyber Security Enthusiast</b>
   <br>
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=ebeni91&style=for-the-badge&color=00ff41"/>
+  <img src="https://komarev.com/ghpvc/?username=sp3ctr1&style=for-the-badge&color=00ff41"/>
   <br><br>
 
 </div>

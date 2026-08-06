@@ -23,7 +23,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: ebeni91
+          github_user_name: sp3ctr1
           # Generates two files: a standard light mode, and a custom dark mode with a green snake
           outputs: |
             dist/github-snake.svg
